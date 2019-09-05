@@ -33,5 +33,5 @@ class Bot(object):
 
                 time.sleep(1)
         else:
-            exit("Error, Connection Failed")
+            print("Connection failed... Looks like your BOT id is not correct")
 
